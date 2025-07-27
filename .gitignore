@@ -14,7 +14,7 @@ env/
 # Virtual Environment
 venv/
 venv/*
-
+# 
 # SQLite Database (optional)
 db.sqlite3
 
